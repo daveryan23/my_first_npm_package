@@ -2,11 +2,11 @@
 
 This is my first published package on npm!!!
 
-The index.js contains 2 very useful functions:
-- hiThereYou(yourName)
-- helloYou(yourName)
+To use this package, require it to a variable **X**.
 
-To see it running, type 'node run.js'
+Then use **X.hiThereYou(yourName)** to obtain a useful greeting.
 
-I hope you like it.
+There is an alternative greeting at **X.helloYou(yourName)**.
+
+These are the only two things currently in the export. I hope you like it.
 D
