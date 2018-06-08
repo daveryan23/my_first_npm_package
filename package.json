@@ -9,5 +9,12 @@
   "author": "David Ryan",
   "license": "ISC",
   "repository": "git@github.com:daveryan23/my_first_npm_package.git",
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "budgerigar",
+    "budgie",
+    "danang",
+    "flimsy",
+    "sapodilla"
+  ]
 }
