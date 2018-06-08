@@ -1,12 +1,13 @@
 {
   "name": "my_first_published_package",
   "version": "1.0.1",
-  "description": "",
+  "description": "This is what happens when a developer wants to start using npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "David Ryan",
   "license": "ISC",
+  "repository" : "git@github.com:daveryan23/my_first_npm_package.git",
   "dependencies": {}
 }
