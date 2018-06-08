@@ -1,6 +1,6 @@
 {
   "name": "my_first_published_package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is what happens when a developer wants to start using npm",
   "main": "index.js",
   "scripts": {
